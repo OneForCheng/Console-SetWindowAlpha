@@ -1,5 +1,5 @@
 # SetWindowAlpha
-The console version of the settings window transparency.
+一个设置可视窗口透明度的控制台程序。
 
 # Usage
 
