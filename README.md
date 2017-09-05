@@ -1,7 +1,7 @@
 # SetWindowAlpha
 The console version of the settings window transparency.
 
-#Usage
+# Usage
 
 查看用法，命令行下输入'SetWindowAlpha /?'
 
